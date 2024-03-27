@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <>
-      <div>
+      <div className="container">
         <p className="bg-red">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis,
           deserunt? Odio voluptatum provident optio delectus possimus corrupti

@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <Navbar />
-      <div>
+      <div className="container">
         <h1>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis quidem
           earum aliquam. Aut rem, reiciendis commodi modi sapiente quis ex quae
